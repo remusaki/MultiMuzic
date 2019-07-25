@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/groupChatMenu"
+        android:title="@string/chatroom"
+        app:showAsAction = "never">
+    </item>
+    <item
+        android:id="@+id/musicRoomMenu"
+        android:title="@string/musicroom"
+        app:showAsAction = "never">
+    </item>
+    <item
+        android:id="@+id/aboutMenu"
+        android:title="@string/about"
+        app:showAsAction = "never">
+    </item>
+    <item
+        android:id="@+id/logoutMenu"
+        android:title="@string/logout"
+        app:showAsAction = "never">
+    </item>
+</menu>

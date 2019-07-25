@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1026050819341",
+    "firebase_url": "https://multiplemp4.firebaseio.com",
+    "project_id": "multiplemp4",
+    "storage_bucket": "multiplemp4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026050819341:android:18ededa137b0a059",
+        "android_client_info": {
+          "package_name": "mikuinc.multimuzic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026050819341-bil5q6qbbmh0h62q5mhb2ofncs31f8he.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mikuinc.multimuzic",
+            "certificate_hash": "aeb63b669ac6315d45b6a7fa248246015de20a65"
+          }
+        },
+        {
+          "client_id": "1026050819341-4kjl7k4nm0rskgaj3d3nqg6sl5d70amv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mikuinc.multimuzic",
+            "certificate_hash": "4e1443c14e279f2525ebd21c5ce91384889475ab"
+          }
+        },
+        {
+          "client_id": "1026050819341-q278bafnnqa22up3fhu8jhflf4k3nguk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhbv8V9HKZa3eefTU36Ba1WJ4T2o0l2Gg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026050819341-q278bafnnqa22up3fhu8jhflf4k3nguk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

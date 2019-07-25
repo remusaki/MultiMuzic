@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MultiMuzic</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="room_type_array">
+        <item>Music Room</item>
+        <item>Chat Room</item>
+    </string-array>
+    <string name="chatroom">Chat Rooms</string>
+    <string name="musicroom">Music Rooms</string>
+    <string name="about">About</string>
+    <string name="logout">Logout</string>
+</resources>
